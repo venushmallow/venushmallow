@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-# About me
 ## Education
 - Computer Science student @ Singapore Management University
 - Double track Artificial Intelligence and Cyber Security
